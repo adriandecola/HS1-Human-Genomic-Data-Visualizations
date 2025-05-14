@@ -1,0 +1,42 @@
+15 least and most abundant canonical 6-mers (HS1 mitochondria weighted)
+------------------------------------------------------------
+
+Bottom 15 canonical 6-mers:
+
+CANONICAL / REVERSE_COMPLEMENT       Frequency (HS1)
+----------------------------------------------------
+CGCGTA/TACGCG                                 24,363
+TCGCGA/TCGCGA                                 32,290
+CGATCG/CGATCG                                 33,484
+CGTCGA/TCGACG                                 34,583
+CGTACG/CGTACG                                 39,560
+CGCGAA/TTCGCG                                 40,004
+ACGTCG/CGACGT                                 41,780
+CGACGA/TCGTCG                                 43,934
+GTCGCG/CGCGAC                                 46,531
+CGACCG/CGGTCG                                 46,849
+ACGCGT/ACGCGT                                 47,158
+ACGACG/CGTCGT                                 47,765
+GCGTCG/CGACGC                                 53,242
+GCGACG/CGTCGC                                 56,499
+CGACGG/CCGTCG                                 57,235
+
+Top 15 canonical 6-mers:
+
+CANONICAL / REVERSE_COMPLEMENT       Frequency (HS1)
+----------------------------------------------------
+AAAAAA/TTTTTT                             20,026,355
+AATGGA/TCCATT                              9,730,012
+AAAAAT/ATTTTT                              9,510,622
+ATGGAA/TTCCAT                              9,366,078
+ATTCCA/TGGAAT                              8,948,823
+AAAATA/TATTTT                              8,828,831
+GAATGG/CCATTC                              8,027,295
+ATATAT/ATATAT                              7,970,622
+TAAAAA/TTTTTA                              7,828,389
+AAATAA/TTATTT                              7,471,449
+TATATA/TATATA                              7,387,980
+AAGAAA/TTTCTT                              7,297,740
+AGAAAA/TTTTCT                              7,271,354
+AATAAA/TTTATT                              7,263,994
+TTAAAA/TTTTAA                              7,019,837

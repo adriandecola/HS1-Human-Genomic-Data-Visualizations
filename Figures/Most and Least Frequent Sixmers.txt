@@ -1,0 +1,38 @@
+
+15 least abundant 6-mers (HS1 corrected):
+  K-mer         Frequency
+  ------------------------------
+  CGCGTA        12,108
+  TACGCG        12,255
+  CGTCGA        15,083
+  TCGCGA        16,145
+  CGATCG        16,742
+  CGCGAA        18,019
+  TCGACG        19,500
+  CGTACG        19,780
+  TCGTCG        20,323
+  ACGTCG        20,412
+  CGACGT        21,368
+  TTCGCG        21,985
+  CGACCG        22,661
+  GTCGCG        22,670
+  ACGACG        22,844
+
+15 most abundant 6-mers (HS1 corrected):
+  K-mer         Frequency
+  ------------------------------
+  TTTTTT    10,044,913
+  AAAAAA     9,981,442
+  AATGGA     5,311,406
+  ATGGAA     5,108,858
+  TGGAAT     4,899,081
+  AAAAAT     4,764,079
+  ATTTTT     4,746,543
+  AAAATA     4,485,387
+  TCCATT     4,418,606
+  GAATGG     4,394,221
+  TATTTT     4,343,444
+  TTCCAT     4,257,220
+  ATTCCA     4,049,742
+  ATATAT     3,985,311
+  TAAAAA     3,918,690

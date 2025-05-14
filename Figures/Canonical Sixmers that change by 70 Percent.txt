@@ -1,0 +1,32 @@
+Canonical sixmers with HS1/HG38 ≥ 1.7  (≥ 70.0% increase)
+---------------------------------------------------------------------------
+CANONICAL / REVERSE_COMPLEMENT         HG38 Freq    HS1 Freq    % Increase
+---------------------------------------------------------------------------
+ATTCGA/TCGAAT                            254,488   1,545,492         507.3%
+CATTCG/CGAATG                            263,222   1,546,132         487.4%
+ATCGAA/TTCGAT                            223,031   1,210,955         443.0%
+AATCGA/TCGATT                            219,324     923,917         321.3%
+GAATGG/CCATTC                          2,031,376   8,027,295         295.2%
+AATGGA/TCCATT                          2,712,356   9,730,012         258.7%
+GGAATG/CATTCC                          1,952,028   6,791,468         247.9%
+ATTCCA/TGGAAT                          2,679,035   8,948,823         234.0%
+ATGGAA/TTCCAT                          2,991,166   9,366,078         213.1%
+ATTCCG/CGGAAT                            197,869     576,251         191.2%
+ACTCGA/TCGAGT                            186,644     541,813         190.3%
+CATCGA/TCGATG                            197,479     554,891         181.0%
+GAACGG/CCGTTC                            188,303     508,510         170.0%
+CGATGA/TCATCG                            217,481     579,732         166.6%
+AACGGA/TCCGTT                            262,496     677,571         158.1%
+GAATCG/CGATTC                            367,377     947,259         157.8%
+ACGGAA/TTCCGT                            315,502     746,659         136.7%
+GATTCC/GGAATC                          1,253,703   2,837,943         126.4%
+GGAACG/CGTTCC                            233,006     508,491         118.2%
+GACTCG/CGAGTC                            173,865     376,062         116.3%
+ACCCGA/TCGGGT                            190,925     402,208         110.7%
+CGAACG/CGTTCG                             39,150      82,031         109.5%
+CACTCG/CGAGTG                            228,069     446,834          95.9%
+CAATCG/CGATTG                            142,209     275,746          93.9%
+ATTCGG/CCGAAT                            192,352     350,878          82.4%
+ACGCGA/TCGCGT                             35,451      64,358          81.5%
+CGAATA/TATTCG                            192,232     335,903          74.7%
+CTCGAA/TTCGAG                            433,428     738,775          70.4%
